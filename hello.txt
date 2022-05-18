@@ -8,4 +8,4 @@ hello git ! hello czj !
 hello git ! hello czj !
 hello git ! hello czj !
 hello git ! hello czj !
-hello git ! hello czj !
+hello git ! hello czj ! hot-fix test
