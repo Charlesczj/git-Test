@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hello git ! hello czj !dasdsa 
 
+=======
+hello git ! hello czj ! 11111111111
+>>>>>>> hot-fix
 hello git ! hello czj !
 hello git ! hello czj !
 hello git ! hello czj !
